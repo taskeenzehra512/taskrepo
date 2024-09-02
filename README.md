@@ -1,2 +1,2 @@
 # this the task repository
-for training purpose.
+for training purpose!
